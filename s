@@ -129,3 +129,28 @@ margin-bottom: -42px;
 .panels-3wFtMD>.container-YkUktl:last-child .button-12Fmur:nth-last-child(4) {
   display: none;
 }
+
+/* Green (HSLA) */
+--SKIN-green-h: 153;
+--SKIN-green-s: 46%;
+--SKIN-green-l: 49%;
+--SKIN-green-a: 1.0;
+
+/* Yellow (HSLA) */
+--SKIN-yellow-h: 38;
+--SKIN-yellow-s: 96%;
+--SKIN-yellow-l: 54%;
+--SKIN-yellow-a: 1.0;
+
+/* Red (HSLA) */
+--SKIN-red-h: 0;
+--SKIN-red-s: 85%;
+--SKIN-red-l: 61%;
+--SKIN-red-a: 1.0;
+
+/* Purple (HSLA) */
+--SKIN-purple-h: 262;
+--SKIN-purple-s: 47%;
+--SKIN-purple-l: 40%;
+--SKIN-purple-a: 1.0;
+}
